@@ -8,31 +8,31 @@
     },
     "installed_plugins": {
         "cordova-plugin-console": {
-            "PACKAGE_NAME": "io.ionic.starter"
+            "PACKAGE_NAME": "com.ionicframework.testmusiccontrols992436"
         },
         "cordova-plugin-device": {
-            "PACKAGE_NAME": "io.ionic.starter"
+            "PACKAGE_NAME": "com.ionicframework.testmusiccontrols992436"
         },
         "cordova-plugin-splashscreen": {
-            "PACKAGE_NAME": "io.ionic.starter"
+            "PACKAGE_NAME": "com.ionicframework.testmusiccontrols992436"
         },
         "cordova-plugin-statusbar": {
-            "PACKAGE_NAME": "io.ionic.starter"
+            "PACKAGE_NAME": "com.ionicframework.testmusiccontrols992436"
         },
         "cordova-plugin-whitelist": {
-            "PACKAGE_NAME": "io.ionic.starter"
+            "PACKAGE_NAME": "com.ionicframework.testmusiccontrols992436"
         },
         "ionic-plugin-keyboard": {
-            "PACKAGE_NAME": "io.ionic.starter"
-        },
-        "cordova-plugin-music-controls": {
-            "PACKAGE_NAME": "io.ionic.starter"
+            "PACKAGE_NAME": "com.ionicframework.testmusiccontrols992436"
         },
         "cordova-plugin-media": {
             "MICROPHONE_USAGE_DESCRIPTION": " ",
             "PACKAGE_NAME": "com.ionicframework.testmusiccontrols992436"
         },
         "cordova-plugin-background-mode": {
+            "PACKAGE_NAME": "com.ionicframework.testmusiccontrols992436"
+        },
+        "cordova-plugin-music-controls": {
             "PACKAGE_NAME": "com.ionicframework.testmusiccontrols992436"
         }
     },
